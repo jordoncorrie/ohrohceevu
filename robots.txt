@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foodeipoom.blake-elshire.com/sitemap.xml
